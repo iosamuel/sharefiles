@@ -1,0 +1,8 @@
+{
+	"name": "Share",
+	"dependencies": {
+		"express": "*",
+		"socket.io": "*",
+		"ejs": "*"
+	}
+}
